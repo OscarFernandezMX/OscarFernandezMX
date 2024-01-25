@@ -7,7 +7,7 @@ _They say that life is a lot like riding a bicycle — you must keep moving forw
 
 - 📍 I'm an electrical engineer with a master's degree in Artificial Intelligence.
 - 🌟 I'm interested in deep learning, data science, combinatorial optimization, and anything about artificial intelligence 😃.
-- 🌱 I come from combinatorial optimization using genetic algorithms. So, I'm expanding my knowledge by learning more about deep learning.
+- 🌱 I come from combinatorial optimization using genetic algorithms. Now, I'm expanding my knowledge by learning more about deep learning.
 - 📫 How to reach me: **<a href="mailto:fernandezmx@ieee.org" >Email</a>**, **<a href="https://www.linkedin.com/in/fernandezmx/" >LinkedIn</a>**.
 
 <!--
